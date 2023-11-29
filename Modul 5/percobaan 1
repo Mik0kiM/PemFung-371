@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+
+xpoints = [3, 9]
+ypoints = [5, 13]
+
+plt.plot(xpoints, ypoints, color='yellow')
+
+plt.show()
+
